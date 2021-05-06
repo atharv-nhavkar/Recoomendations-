@@ -3,4 +3,6 @@
 
 - Movies
 - Series
-- Podcast
+- Podcasts
+- Books
+- Other content 

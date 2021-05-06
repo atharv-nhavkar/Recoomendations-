@@ -5,11 +5,30 @@
         "reviews": [
             {
                 "name": "Devang Kamble",
-                "rating": 9,
+                "rating": "9",
                 "review": "Its okay",
                 "reviewer-profile": "https://github.com/rising-entropy"
+            },{
+                "name": "Atharv Nhavkar",
+                "rating": "9",
+                "review": "One of Best of all time for me",
+                "reviewer-profile": "https://github.com/atharv-nhavkar"
             }
-
+        ]
+    },{            
+        "movie-name": "The Dictator",
+        "reviews": [
+            {
+                "name": "Atharv Nhavkar",
+                "rating": "8",
+                "review": "OP comedy film ",
+                "reviewer-profile": "https://github.com/atharv-nhavkar"
+            },{
+                "name": "Shripad Bhat",
+                "rating": "7",
+                "review": "Funny but makes a lot of sence ",
+                "reviewer-profile": ""
+            }
         ]
     }
     ]

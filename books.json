@@ -1,0 +1,36 @@
+{
+    "books": [
+        {            
+        "book-name": "",
+        "reviews": [
+            {
+                "name": "",
+                "rating": "",
+                "review": "",
+                "reviewer-profile": ""
+            },
+            {
+                "name": "",
+                "rating": "",
+                "review": "",
+                "reviewer-profile": ""
+            }
+        ]
+    },{            
+        "book-name": "",
+        "reviews": [
+            {
+                "name": "",
+                "rating": "",
+                "review": "",
+                "reviewer-profile": ""
+            },{
+                "name": "",
+                "rating": "",
+                "review": "",
+                "reviewer-profile": ""
+            }
+        ]
+    }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "podcasts": [
+        {            
+        "podcast-name": "",
+        "reviews": [
+            {
+                "name": "",
+                "rating": "",
+                "review": "",
+                "reviewer-profile": ""
+            },
+            {
+                "name": "",
+                "rating": "",
+                "review": "",
+                "reviewer-profile": ""
+            }
+        ]
+    },{            
+        "podcast-name": "",
+        "reviews": [
+            {
+                "name": "",
+                "rating": "",
+                "review": "",
+                "reviewer-profile": ""
+            },{
+                "name": "",
+                "rating": "",
+                "review": "",
+                "reviewer-profile": ""
+            }
+        ]
+    }
+    ]
+}
